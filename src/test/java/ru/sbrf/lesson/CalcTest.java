@@ -32,5 +32,6 @@ public class CalcTest {
         Calc calc = new Calc();
 
         assertEquals(4,calc.div(12,3));
+        assertEquals(5,calc.div(30,6));
     }
 }
