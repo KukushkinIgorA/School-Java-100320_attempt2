@@ -33,5 +33,6 @@ public class CalcTest {
 
         assertEquals(4,calc.div(12,3));
         assertEquals(5,calc.div(30,6));
+        assertEquals(6,calc.div(300,50));
     }
 }
